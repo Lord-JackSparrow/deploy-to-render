@@ -1,0 +1,8 @@
+aiohttp
+aiofiles
+electrogram
+httpx
+pymongo
+pytz
+uvloop
+uv
