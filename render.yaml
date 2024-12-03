@@ -6,7 +6,6 @@ services:
     plan: free
     envVars:
       - key: UPSTREAM_REPO
-        # value: "None"
+        value: ""
       - key: UPSTREAM_BRANCH
         value: "main"
-        sync: false
