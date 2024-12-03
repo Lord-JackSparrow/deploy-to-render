@@ -9,3 +9,5 @@ services:
         value: ""
       - key: UPSTREAM_BRANCH
         value: "main"
+      - key: BASE_URL
+        value: ""

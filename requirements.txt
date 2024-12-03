@@ -3,6 +3,7 @@ aiofiles
 electrogram
 httpx
 pymongo
+requests
 pytz
 uvloop
 uv
