@@ -6,7 +6,12 @@ pymongo
 requests
 pytz
 gunicorn
-uvloop
 uv
 gevent
 Flask
+apscheduler
+asyncio
+bs4
+feedparser
+motor
+uvloop==0.21.0b1
