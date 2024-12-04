@@ -15,3 +15,4 @@ bs4
 feedparser
 motor
 uvloop==0.21.0b1
+aria2p==0.12.0
