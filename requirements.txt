@@ -8,3 +8,5 @@ pytz
 gunicorn
 uvloop
 uv
+gevent
+Flask
